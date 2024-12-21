@@ -55,7 +55,7 @@ Setsuka (SC3)             SFT
 Setsuka (SC4+)            SFU
 Setsuka (SC6?)            SFV
 Shura (SC4)               SHU
-Siegfried (SC3)           SIE
+Siegfried (SC3)           SIE - DONE
 Siegfried (SC4)           SIF
 Siegfried (SC5?)          SIG
 Siegfried (SC6)           SIH
@@ -164,7 +164,6 @@ KILIK
 MITSURUGI
 NIGHTMARE
 RAPHAEL
-SIEGFRIED
 TAKI
 TIRA
 YUN-SEONG
