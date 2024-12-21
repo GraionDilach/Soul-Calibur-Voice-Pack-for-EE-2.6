@@ -1,0 +1,211 @@
+Abyss (SC3)               ABY
+Algol (SC4+)              ALG
+Amy (SC4+)                AMY
+Amy (SC6?)                AMZ
+Angol Fear (SC4)          ANG
+Ashlotte (SC4)            ASH
+Astaroth (SC2)            AST
+Astaroth (SC3+)           ASU
+Azwel (SC6)               AZW
+Cassandra (SC2)           CAS - DONE
+Cassandra (SC3+)          CAT
+Cassandra (SC6?)          CAU
+Cervantes (SC2)           CER
+Cervantes (SC3+)          CES
+Cervantes (SC5+)          CET
+Dampierre (SC4)           DAM
+Edge Master (SC5)         EDG
+Elysium (SC5)             ELY
+Groh (SC6)                GRO
+Hilde (SC4+)              HIL
+Hilde (SC6?)              HIM
+Hwang (SC6)               HWA
+Ivy (SC2)                 IVY
+Ivy (SC3+)                IVZ
+Kamikirimusi (SC4)        KAM
+Kilik (SC2)               KIL
+Kilik (SC3+)              KIM
+Leixia (SC5)              LEI
+Maxi (SC2)                MAX
+Maxi (SC3+)               MAY
+Mitsurugi (SC2)           MIT
+Mitsurugi (SC3+)          MIU
+Mitsurugi (SC5?)          MIV
+Mitsurugi (SC6)           MIW
+Natsu (SC5)               NAT
+Nightmare (SC2)           NIG
+Nightmare (SC3)           NIH
+Nightmare (SC4)           NII
+Nightmare (SC5)           NIJ
+Nightmare (SC6)           NIK
+Olcadan (SC3)             OLC
+Patroklos (SC5)           PAT
+Patroklos, Alpha (SC5)    PAU
+Pyrrha (SC5)              PYR
+Pyrrha Omega (SC5)        PYS
+Raphael (SC2)             RAP
+Raphael (SC3+)            RAQ
+Rock (SC3)                ROC
+Rock (SC4)                ROD
+Scherezade (SC4)          SCH
+Seong Mi-na (SC2)         SEO
+Seong Mi-na (SC3+)        SEP
+Seong Mi-na (SC6)         SEQ
+Setsuka (SC3)             SFT
+Setsuka (SC4+)            SFU
+Setsuka (SC6?)            SFV
+Shura (SC4)               SHU
+Siegfried (SC3)           SIE
+Siegfried (SC4)           SIF
+Siegfried (SC5?)          SIG
+Siegfried (SC6)           SIH
+Sophitia (SC2)            SOP
+Sophitia (SC3+)           SOQ
+Sophitia (SC6)            SOR
+Taki (SC2)                TAK
+Taki (SC3+)               TAL
+Talim (SC2)               TBL
+Talim (SC3+)              TBM
+Talim (SC6)               TBN
+Tira (SC3)                TIR
+Tira, Jolly (SC4+)        TJR
+Tira, Jolly (SC6)         TJS
+Tira, Gloomy (SC4+)       TKR
+Tira, Gloomy (SC6)        TKS
+Viola (SC5)               VIO
+Xianghua (SC2)            XIA
+Xianghua (SC3+)           XIB
+Xianghua (SC6?)           XIC
+Xiba (SC5)                XJB
+Yoshimitsu (SC2)          YOS
+Yoshimitsu (SC3+)         YOT
+Yun-seong (SC2)           YUN
+Yun-seong (SC3+)          YUO
+Zasalamel (SC3+)          ZAS
+Z.W.E.I. (SC5)            ZWE
+
+GUEST CHARACTERS
+
+2B (SC6)                 32B
+
+The Apprentice (SC4)     4AP
+Darth Vader (SC4)        4DA
+Ezio Auditore (SC5)      4EZ
+Geralt (SC6)             4GE
+Haohmaru (SC6)           4HA
+Heihachi (SC2)           4HE
+Kratos (SCBD)            4KR
+Link (SC2)               4LI
+Necrid (SC2)             4NE
+Spawn (SC2)              4SP
+Yoda (SC4)               4YO
+
+CREATE-A-SOUL
+
+SC4 FEMALE VOICES ARE LISTED AMONG MAIN CHARS, WITH THEIR BONUS CHARACTERS
+SC4 MALE VOICES WILL GET DESCRIPTIVE NAMES, PREFERABLY MAULCLAW'S DESCRIPTIONS FROM THE SC6 MOD SCENE
+SC5 VOICES USE SC6 NAMES (EXCLUDING F ELDER SISTER/RELIABLE LEADER, TO PREVENT OVERLAP)
+
+1CO - FEMALE, COOL-HEADED CAPTAIN (SC6)
+1EL - FEMALE, ELDERLY FIGHTER (SC6)
+1DA - FEMALE, DARING ADVENTURER (SC6)
+1FE - FEMALE, FEMME FATALE (SC5)
+1MA - FEMALE, MALICIOUS IMP (SC6)
+1MY - FEMALE, MYSTERIOUS AND BOYISH (SC6)
+1RE - FEMALE, RELIABLE LEADER (SC5)
+1SE - FEMALE, SERIOUS (SC5)
+1TA - FEMALE, TACITURN CYNIC (SC5)
+1TR - FEMALE, TRANSCENDENTAL BEING (SC5)
+1UP - FEMALE, UPBEAT GIRL (SC5)
+1VE - FEMALE, VETERAN KNIGHT (SC5)
+1YO - FEMALE, YOUNG LADY (SC5)
+1ZE - FEMALE, ZEALOT (SC6)
+
+2AD - MALE, ADVENTUROUS YOUTH (SC6)
+2CA - MALE, CAUSTIC RIVAL (SC4) (VOICE 2) [MAULCLAW]
+2CH - MALE, CHIEF VILLAIN (SC5)
+2CO - MALE, COLD-HEARTED ASSASIN (SC5)
+2DE - MALE, DEPENDABLE LEADER (SC5)
+2EA - MALE, EAGER GO-GETTER (SC4) (VOICE 3) [MAULCLAW]
+2HU - MALE, HUMBLE CHEVALIER (SC4) (VOICE 1) [MAULCLAW]
+2MI - MALE, MIDDLE-AGED WILDMAN (SC6)
+2NA - MALE, NARCISSIST (SC6)
+2SC - MALE, SCOUNDREL (SC5)
+2TR - MALE, TRANSCENDENTAL BEING (SC5)
+2VA - MALE, VAGABOND (SC6)
+2VE - MALE, VETERAN KNIGHT (SC6)
+2WI - MALE, WIZENED WARLORD (SC6)
+2YK - MALE, YOUNG KNIGHT (SC5)
+2YT - MALE, YOUNG TACTICIAN (SC6)
+2YV - MALE, YOUNG VILLAGER (SC5)
+
+MALE, VOICE 4 (SC4)
+MALE, VOICE 5 (SC4)
+MALE, VOICE 6 (SC4)
+
+TO-DO AGAINST SORCERER'S PLACE VOICEPACKS
+
+SC2
+CERVANTES
+IVY
+KILIK
+MITSURUGI
+NIGHTMARE
+RAPHAEL
+SOPHITIA
+TAKI
+YUN-SEONG
+
+SC3
+ABYSS
+CASSANDRA
+CERVANTES
+KILIK
+MITSURUGI
+NIGHTMARE
+RAPHAEL
+SIEGFRIED
+TAKI
+TIRA
+YUN-SEONG
+ZASALAMEL
+
+NONHUMAN MAIN CHARACTERS
+
+Charade (SC2)             CHA ???
+Lizardman (SC2)           LIW ???
+Lizardman (SC3)           LIX ???
+Lizardman (SC4)           LIY ???
+Lizardman, Aeon (SC5)     LIZ ???
+Voldo (SC2)               VOL ???
+Voldo (SC3)               VOM ???
+Voldo (SC4+)              VON ???
+
+// SC4 FEMALE VOICES WERE SHARED WITH AMY AND THE BONUS CHARACTERS
+
+// FEMALE, VOICE 1 (SC4)
+// FEMALE, VOICE 2 (SC4)
+// FEMALE, VOICE 3 (SC4)
+// FEMALE, VOICE 4 (SC4)
+// FEMALE, VOICE 5 (SC4)
+// FEMALE, VOICE 6 (SC4)
+
+// MISC BONUS CHARS, WITHOUT UNIQUE VOICE
+
+// Abelia
+// Arthur
+// Aurelia
+// Chester
+// Demuth
+// Devil Jin
+// Girardot
+// Greed
+// Hualin
+// Inferno
+// Li Long
+// Luna
+// Lynette
+// Miser
+// Revenant
+// Strife
+// Valeria
