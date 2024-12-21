@@ -3,7 +3,7 @@ Algol (SC4+)              ALG
 Amy (SC4+)                AMY
 Amy (SC6?)                AMZ
 Angol Fear (SC4)          ANG
-Ashlotte (SC4)            ASH
+Ashlotte (SC4)            ASH - DONE
 Astaroth (SC2)            AST
 Astaroth (SC3+)           ASU
 Azwel (SC6)               AZW
