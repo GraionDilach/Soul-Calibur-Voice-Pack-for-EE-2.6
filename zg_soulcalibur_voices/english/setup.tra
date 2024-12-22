@@ -192,9 +192,55 @@
 @466 = ~So, you really wanna do this, huh?~ [zgscat4_]   ///  cd_tired2 #4_
 @467 = ~Uh-oh...~ [zgscat7]    ///  cd_trap #7
 
+@500 = ~SC: Seong Mi-Na (SC2)~
+@501 = ~Alright.~ [zgsseoi]    ///  cd_action1 #i
+@502 = ~Is that all you've got?~ [zgsseoj]    ///  cd_action2 #j
+@503 = ~Here I come.~ [zgsseok]    ///  cd_action3 #k
+@504 = ~Here I go.~ [zgsseos]    ///  cd_action4 #s
+@505 = ~I think you need a bit more practice.~ [zgsseot]    ///  cd_action5 #t
+@506 = ~That was easy.~ [zgsseou]    ///  cd_action6 #u
+@507 = ~Not bad, not bad.~ [zgsseov]    ///  cd_action7 #v
+@516 = ~Let's get this over with.~ [zgsseoa]    ///  cd_battlecry1 #a
+@517 = ~Looks like we have to settle this... the hard way.~ [zgsseo8]    ///  cd_battlecry2 #8
+@518 = ~Let's see what you're made of!~ [zgsseo9]    ///  cd_battlecry3 #9
+@519 = ~Why are there so many of you?~ [zgsseog_]   ///  cd_battlecry4 #g_
+@520 = ~You're in my way.~ [zgsseoh_]   ///  cd_battlecry5 #h_
+@521 = ~I've no intention of stopping now.~ [zgsseod]    ///  cd_bored #d
+@525 = ~Let's go.~ [zgsseof]    ///  cd_common1 #f
+@526 = ~I won't lose.~ [zgsseog]    ///  cd_common2 #g
+@527 = ~Stay out of my way, okay?~ [zgsseoh]    ///  cd_common3 #h
+@528 = ~This isn't a place for kids.~ [zgsseo0]    ///  cd_common4 #0
+@529 = ~What's going on?~ [zgsseok_]   ///  cd_common5 #k_
+@530 = ~I've got to keep giving it my all.~ [zgsseol_]   ///  cd_common6 #l_
+@531 = ~Ready?~ [zgsseom_]   ///  cd_common7 #m_
+@532 = ~Gotcha!~ [zgsseoz]    ///  cd_criticalhit #z
+@533 = ~Unnh.~ [zgsseo1]    ///  cd_criticalmiss #1 (number)
+@534 = ~Ah!~ [zgsseol]    ///  cd_damage #l (letter)
+@535 = ~Uah!~ [zgsseon_]   ///  cd_damage2 #n_
+@536 = ~Nnl!~ [zgsseoo_]   ///  cd_damage3 #o_
+@538 = ~I can't believe this...~ [zgsseo6]    ///  cd_disrupted #6
+@540 = ~Gluah!~ [zgsseom]    ///  cd_dying #m
+@541 = ~Uuuahhh!~ [zgsseop_]   ///  cd_dying2 #p_
+@542 = ~Huh... That felt good.~ [zgsseon]    ///  cd_forest #n
+@543 = ~Poor thing.~ [zgsseow]    ///  cd_gen_death #w
+@544 = ~That's what you get for not paying attention.~ [zgsseoq_]   ///  cd_gen_death2 #q_
+@546 = ~How can this be?~ [zgsseoe]    ///  cd_hurt #e
+@547 = ~Not yet.~ [zgsseos_]   ///  cd_hurt2 #s_
+@548 = ~You're good.~ [zgsseo2]    ///  cd_immune #2
+@549 = ~Try again?~ [zgsseo3]    ///  cd_inventory #3
+@550 = ~Okay, playtime's over!~ [zgsseob]    ///  cd_leader #b
+@551 = ~If I'm gonna do this, I'm gonna do it right.~ [zgsseot_]   ///  cd_leader2 #t_
+@552 = ~This isn't how it's supposed to be...~ [zgsseou_]   ///  cd_morale_break #u_
+@555 = ~Hey!~ [zgsseo4]    ///  cd_pickpocket #4
+@556 = ~You're out of your league.~ [zgsseow_]   ///  cd_select_rare1 #w_
+@557 = ~Looks like I have to teach you a lesson.~ [zgsseox_]   ///  cd_select_rare2 #x_
+@565 = ~*pant* *pant*~ [zgsseoc]    ///  cd_tired #c
+@566 = ~You're sure you wanna do this?~ [zgsseo4_]   ///  cd_tired2 #4_
+@567 = ~So?~ [zgsseo7]    ///  cd_trap #7
 
 
-/// @00 = ~SC: (SC)~
+
+/// @00 = ~SC:  (SC)~
 /// @01 = ~~ [zgsi]    ///  cd_action1 #i
 /// @02 = ~~ [zgsj]    ///  cd_action2 #j
 /// @03 = ~~ [zgsk]    ///  cd_action3 #k
