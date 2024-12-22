@@ -238,6 +238,41 @@
 @566 = ~You're sure you wanna do this?~ [zgsseo4_]   ///  cd_tired2 #4_
 @567 = ~So?~ [zgsseo7]    ///  cd_trap #7
 
+@600 = ~SC: Male, Young Tactician (SC6)~
+@601 = ~I had predicted this outcome.~ [zgs2yti]    ///  cd_action1 #i
+@602 = ~Excellent.~ [zgs2ytj]    ///  cd_action2 #j
+@603 = ~Predictable.~ [zgs2ytk]    ///  cd_action3 #k
+@604 = ~Is that all?~ [zgs2yts]    ///  cd_action4 #s
+@605 = ~I got this.~ [zgs2ytt]    ///  cd_action5 #t
+@606 = ~As I planned.~ [zgs2ytu]    ///  cd_action6 #u
+@607 = ~Superb!~ [zgs2ytv]    ///  cd_action7 #v
+@616 = ~Do not interfere.~ [zgs2yta]    ///  cd_battlecry1 #a
+@617 = ~Do you see your limits?~ [zgs2yt8]    ///  cd_battlecry2 #8
+@618 = ~Hmph! Victory comes as no surprise.~ [zgs2yt9]    ///  cd_battlecry3 #9
+@619 = ~Showdown!~ [zgs2ytg_]   ///  cd_battlecry4 #g_
+@621 = ~Hmph!~ [zgs2ytd]    ///  cd_bored #d
+@625 = ~Don't yell. It's barbaric.~ [zgs2ytf]    ///  cd_common1 #f
+@626 = ~Over here.~ [zgs2ytg]    ///  cd_common2 #g
+@627 = ~Let's go.~ [zgs2yth]    ///  cd_common3 #h
+@628 = ~Come on.~ [zgs2yt0]    ///  cd_common4 #0
+@629 = ~Get ready.~ [zgs2ytk_]   ///  cd_common5 #k_
+@632 = ~Take this!~ [zgs2ytz]    ///  cd_criticalhit #z
+@633 = ~Damn!~ [zgs2yt1]    ///  cd_criticalmiss #1 (number)
+@634 = ~Dnh!~ [zgs2ytl]    ///  cd_damage #l (letter)
+@635 = ~Ngh!~ [zgs2ytn_]   ///  cd_damage2 #n_
+@636 = ~Agh!~ [zgs2yto_]   ///  cd_damage3 #o_
+@638 = ~What?!~ [zgs2yt6]    ///  cd_disrupted #6
+@640 = ~Ahnnn-uhhnn...~ [zgs2ytm]    ///  cd_dying #m
+@641 = ~Uuuhh-aahh...~ [zgs2ytp_]   ///  cd_dying2 #p_
+@646 = ~That hurt...~ [zgs2yte]    ///  cd_hurt #e
+@647 = ~Not good...~ [zgs2yts_]   ///  cd_hurt2 #s_
+@648 = ~No way!~ [zgs2yt2]    ///  cd_immune #2
+@650 = ~A wise choice.~ [zgs2ytb]    ///  cd_leader #b
+@652 = ~Is this how it ends...?~ [zgs2ytu_]   ///  cd_morale_break #u_
+@653 = ~How did this happen...~ [zgs2ytv_]   ///  cd_morale_break2 #v_
+@655 = ~Hu-ha.~ [zgs2yt4]    ///  cd_pickpocket #4
+@665 = ~*pant* *pant*~ [zgs2ytc]    ///  cd_tired #c
+
 
 
 /// @00 = ~SC:  (SC)~

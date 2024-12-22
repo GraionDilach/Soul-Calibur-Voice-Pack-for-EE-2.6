@@ -298,6 +298,47 @@ LAF cd_add_soundset
   STR_VAR cd_name = "ZGSSEO"
 END
 
+// Male, Young Tactician (SC6)
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@600) //  name
+    cd_action1            = RESOLVE_STR_REF(@601) //  i
+    cd_action2            = RESOLVE_STR_REF(@602) //  j
+    cd_action3            = RESOLVE_STR_REF(@603) //  k
+    cd_action4            = RESOLVE_STR_REF(@604) //  s
+    cd_action5            = RESOLVE_STR_REF(@605) //  t
+    cd_action6            = RESOLVE_STR_REF(@606) //  u
+    cd_action7            = RESOLVE_STR_REF(@607) //  v
+    cd_battlecry1         = RESOLVE_STR_REF(@616) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@617) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@618) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@619) //  g_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@621) //  d
+    cd_common1            = RESOLVE_STR_REF(@625) //  f
+    cd_common2            = RESOLVE_STR_REF(@626) //  g
+    cd_common3            = RESOLVE_STR_REF(@627) //  h
+    cd_common4            = RESOLVE_STR_REF(@628) //  0
+    cd_common5            = RESOLVE_STR_REF(@629) //  k_ (unofficial)
+    cd_criticalhit        = RESOLVE_STR_REF(@632) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@633) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@634) //  l  (letter)
+    // cd_damage2         = RESOLVE_STR_REF(@635) //  n_ (unofficial)
+    // cd_damage3         = RESOLVE_STR_REF(@636) //  o_ (unofficial)
+    cd_disrupted          = RESOLVE_STR_REF(@638) //  6
+    cd_dying1             = RESOLVE_STR_REF(@640) //  m
+    cd_dying2             = RESOLVE_STR_REF(@641) //  p_
+    cd_hurt1              = RESOLVE_STR_REF(@646) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@647) //  s_
+    cd_immune             = RESOLVE_STR_REF(@648) //  2
+    cd_leader1            = RESOLVE_STR_REF(@650) //  b
+    cd_morale_break1      = RESOLVE_STR_REF(@652) //  u_ (unofficial)
+    cd_morale_break2      = RESOLVE_STR_REF(@653) //  v_ (unofficial)
+    cd_pickpocket         = RESOLVE_STR_REF(@655) //  4
+    cd_tired1             = RESOLVE_STR_REF(@665) //  c
+  STR_VAR cd_name = "ZGS2YT"
+END
+
 /// LAF cd_add_soundset
 ///   INT_VAR
 ///     cd_select_name        = RESOLVE_STR_REF(@00) //  name
