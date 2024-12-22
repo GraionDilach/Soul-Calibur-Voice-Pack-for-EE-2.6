@@ -233,7 +233,7 @@
 @552 = ~This isn't how it's supposed to be...~ [zgsseou_]   ///  cd_morale_break #u_
 @555 = ~Hey!~ [zgsseo4]    ///  cd_pickpocket #4
 @556 = ~You're out of your league.~ [zgsseow_]   ///  cd_select_rare1 #w_
-@557 = ~Looks like I have to teach you a lesson.~ [zgsseox_]   ///  cd_select_rare2 #x_
+@557 = ~Looks like I'll have to teach you a lesson.~ [zgsseox_]   ///  cd_select_rare2 #x_
 @565 = ~*pant* *pant*~ [zgsseoc]    ///  cd_tired #c
 @566 = ~You're sure you wanna do this?~ [zgsseo4_]   ///  cd_tired2 #4_
 @567 = ~So?~ [zgsseo7]    ///  cd_trap #7
