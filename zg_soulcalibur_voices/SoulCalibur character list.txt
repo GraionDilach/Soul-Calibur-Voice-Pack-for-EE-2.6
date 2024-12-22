@@ -8,8 +8,9 @@ Astaroth (SC2)            AST
 Astaroth (SC3+)           ASU
 Azwel (SC6)               AZW
 Cassandra (SC2)           CAS - DONE
-Cassandra (SC3+)          CAT
-Cassandra (SC6?)          CAU
+Cassandra (SC3+)          CAT - DONE
+Cassandra (SC4?)          CAU
+Cassandra (SC6?)          CAV
 Cervantes (SC2)           CER
 Cervantes (SC3+)          CES
 Cervantes (SC5+)          CET
@@ -158,7 +159,6 @@ YUN-SEONG
 
 SC3
 ABYSS
-CASSANDRA
 CERVANTES
 KILIK
 MITSURUGI
