@@ -32,7 +32,7 @@ Mitsurugi (SC2)           MIT - DONE
 Mitsurugi (SC3+)          MIU
 Mitsurugi (SC5?)          MIV
 Mitsurugi (SC6)           MIW
-Natsu (SC5)               NAT
+Natsu (SC5)               NAT - DONE
 Nightmare (SC2)           NIG
 Nightmare (SC3)           NIH
 Nightmare (SC4)           NII
