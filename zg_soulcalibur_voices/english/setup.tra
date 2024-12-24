@@ -273,6 +273,42 @@
 @655 = ~Hu-ha.~ [zgs2yt4]    ///  cd_pickpocket #4
 @665 = ~*pant* *pant*~ [zgs2ytc]    ///  cd_tired #c
 
+@700 = ~SC: Mitsurugi (SC2)~
+@701 = ~Just as I thought.~ [zgsmiti]    ///  cd_action1 #i
+@702 = ~Too easy.~ [zgsmitj]    ///  cd_action2 #j
+@703 = ~See that?~ [zgsmitk]    ///  cd_action3 #k
+@704 = ~Ha-ha-ha-ha-ha.~ [zgsmits]    ///  cd_action4 #s
+@705 = ~Ridiculous!~ [zgsmitt]    ///  cd_action5 #t
+@706 = ~Fine.~ [zgsmitu]    ///  cd_action6 #u
+@716 = ~It's too late to beg for mercy!~ [zgsmita]    ///  cd_battlecry1 #a
+@717 = ~You'll be in hell... before me.~ [zgsmit8]    ///  cd_battlecry2 #8
+@718 = ~I will defeat you, no matter what!~ [zgsmit9]    ///  cd_battlecry3 #9
+@719 = ~There will be no mercy!~ [zgsmitg_]   ///  cd_battlecry4 #g_
+@720 = ~Know your place!~ [zgsmith_]   ///  cd_battlecry5 #h_
+@721 = ~What a waste of time.~ [zgsmitd]    ///  cd_bored #d
+@725 = ~Swords are not... toys!~ [zgsmitf]    ///  cd_common1 #f
+@726 = ~Let's go!~ [zgsmitg]    ///  cd_common2 #g
+@727 = ~Try me!~ [zgsmith]    ///  cd_common3 #h
+@728 = ~You again?~ [zgsmit0]    ///  cd_common4 #0
+@729 = ~Ready?~ [zgsmitk_]   ///  cd_common5 #k_
+@730 = ~I accept your challenge!~ [zgsmitl_]   ///  cd_common6 #l_
+@732 = ~Got you!~ [zgsmitz]    ///  cd_criticalhit #z
+@733 = ~Bastard!~ [zgsmit1]    ///  cd_criticalmiss #1 (number)
+@734 = ~Agh!~ [zgsmitl]    ///  cd_damage #l (letter)
+@735 = ~Ugh!~ [zgsmitn_]   ///  cd_damage2 #n_
+@736 = ~Gh!~ [zgsmito_]   ///  cd_damage3 #o_
+@738 = ~Damn it!~ [zgsmit6]    ///  cd_disrupted #6
+@740 = ~Gluag-gh!~ [zgsmitm]    ///  cd_dying #m
+@741 = ~Guaagh!~ [zgsmitp_]   ///  cd_dying2 #p_
+@743 = ~Don't... cry.~ [zgsmitw]    ///  cd_gen_death #w
+@746 = ~Can't be...~ [zgsmite]    ///  cd_hurt #e
+@747 = ~Not enough!~ [zgsmits_]   ///  cd_hurt2 #s_
+@748 = ~What?!~ [zgsmit2]    ///  cd_immune #2
+@749 = ~This isn't what I've been searching for...~ [zgsmit3]    ///  cd_inventory #3
+@750 = ~Don't make me laugh!~ [zgsmitb]    ///  cd_leader #b
+@752 = ~No way!~ [zgsmitu_]   ///  cd_morale_break #u_
+@753 = ~This is no game!~ [zgsmitv_]   ///  cd_morale_break2 #v_
+@765 = ~Don't know when to quit, do you?~ [zgsmitc]    ///  cd_tired #c
 
 
 /// @00 = ~SC:  (SC)~
