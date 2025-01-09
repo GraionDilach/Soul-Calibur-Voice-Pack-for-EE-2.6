@@ -5,33 +5,42 @@ Amy (SC6?)                AMZ
 Angol Fear (SC4)          ANG
 Ashlotte (SC4)            ASH - DONE
 Astaroth (SC2)            AST
-Astaroth (SC3+)           ASU
+Astaroth (SC3)            ASU
+Astaroth (SC4)            ASV
 Azwel (SC6)               AZW
 Cassandra (SC2)           CAS - DONE
 Cassandra (SC3)           CAT - DONE
 Cassandra (SC4+)          CAU (this is whack, they recasted(?) her in SC4 but reused all the SC3 grunts... the new tone is fairly close to SC6, those can be mixed)
 Cervantes (SC2)           CER
 Cervantes (SC3+)          CES
-Cervantes (SC5+)          CET
+Cervantes (SC4)           CET
+Cervantes (SC5+)          CEU
 Dampierre (SC4)           DAM
 Edge Master (SC5)         EDG
 Elysium (SC5)             ELY
 Groh (SC6)                GRO
-Hilde (SC4+)              HIL
-Hilde (SC6?)              HIM
+Hilde (SC4)               HIL
+Hilde (SC5?)              HIM
+Hilde (SC6?)              HIN
 Hwang (SC6)               HWA
 Ivy (SC2)                 IVY
-Ivy (SC3+)                IVZ
+Ivy (SC3)                 IVZ
+Ivy (SC4)                 IWA
+Ivy (SC5+?)               IWB
 Kamikirimusi (SC4)        KAM
 Kilik (SC2)               KIL
-Kilik (SC3+)              KIM
+Kilik (SC3)               KIM
+Kilik (SC4)               KIN
+Kilik (SC5)               KIO
+Kilik (SC6)               KIP
 Leixia (SC5)              LEI
 Maxi (SC2)                MAX
 Maxi (SC3+)               MAY
 Mitsurugi (SC2)           MIT - DONE
-Mitsurugi (SC3+)          MIU
-Mitsurugi (SC5?)          MIV
-Mitsurugi (SC6)           MIW
+Mitsurugi (SC3)           MIU
+Mitsurugi (SC4)           MIV
+Mitsurugi (SC5?)          MIW
+Mitsurugi (SC6)           MIX
 Natsu (SC5)               NAT - DONE
 Nightmare (SC2)           NIG
 Nightmare (SC3)           NIH
@@ -45,12 +54,13 @@ Pyrrha (SC5)              PYR
 Pyrrha Omega (SC5)        PYS
 Raphael (SC2)             RAP
 Raphael (SC3+)            RAQ
-Rock (SC3)                ROC
+Rock (SC3)                ROC - DONE
 Rock (SC4)                ROD
 Scherezade (SC4)          SCH
 Seong Mi-na (SC2)         SEO - DONE
 Seong Mi-na (SC3+)        SEP
-Seong Mi-na (SC6)         SEQ
+Seong Mi-na (SC4)         SEQ
+Seong Mi-na (SC6)         SER
 Setsuka (SC3)             SFT
 Setsuka (SC4+)            SFU
 Setsuka (SC6?)            SFV
@@ -60,13 +70,15 @@ Siegfried (SC4)           SIF
 Siegfried (SC5?)          SIG
 Siegfried (SC6)           SIH
 Sophitia (SC2)            SOP
-Sophitia (SC3+)           SOQ
-Sophitia (SC6)            SOR
+Sophitia (SC3)            SOQ
+Sophitia (SC4)            SOR
+Sophitia (SC6)            SOS
 Taki (SC2)                TAK
 Taki (SC3+)               TAL
 Talim (SC2)               TBL
-Talim (SC3+)              TBM
-Talim (SC6)               TBN
+Talim (SC3)               TBM
+Talim (SC4)               TBN
+Talim (SC6)               TBO
 Tira (SC3)                TIR
 Tira, Jolly (SC4+)        TJR
 Tira, Jolly (SC6)         TJS
@@ -74,14 +86,18 @@ Tira, Gloomy (SC4+)       TKR
 Tira, Gloomy (SC6)        TKS
 Viola (SC5)               VIO
 Xianghua (SC2)            XIA
-Xianghua (SC3+)           XIB
-Xianghua (SC6?)           XIC
+Xianghua (SC3)            XIB
+Xianghua (SC4)            XIC
+Xianghua (SC6?)           XID
 Xiba (SC5)                XJB
 Yoshimitsu (SC2)          YOS
-Yoshimitsu (SC3+)         YOT
+Yoshimitsu (SC3)          YOT
+Yoshimitsu (SC4+)         YOU
 Yun-seong (SC2)           YUN
-Yun-seong (SC3+)          YUO
-Zasalamel (SC3+)          ZAS
+Yun-seong (SC3)           YUO
+Yun-seong (SC4)           YUP
+Zasalamel (SC3)           ZAS
+Zasalamel (SC4+)          ZAT
 Z.W.E.I. (SC5)            ZWE
 
 GUEST CHARACTERS

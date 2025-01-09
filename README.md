@@ -4,7 +4,7 @@
 This mod adds voicesets from the Soul Calibur series as selectable player voicesets to the Infinity Engine (Baldur's Gate/Baldur's Gate II/Icewind Dale) Enhanced Edition games version 2.6 or above.
 
 ## Limitations
-Due to inconsistency between voicesets in the source games, not every voiceset covers every role. Discrepancies between characters are commonplace. The audio quality may also vary between the sets due to audio and mastering differences between the source games. Unless there's a really significant difference, reprised roles will not receive their own voiceset, but merged into enmriching one set.
+Due to inconsistency between voicesets in the source games, not every voiceset covers every role. Discrepancies between characters are commonplace. Additionally, because there is a massive audio quality difference between the PS2-era games and after them, SC2 and SC3 are treated separately from SC4 and onwards (in line with the source games also reusing samples from prior games). This might open the door for some de-facto duplicate sets.
 
 ## Version history
 
