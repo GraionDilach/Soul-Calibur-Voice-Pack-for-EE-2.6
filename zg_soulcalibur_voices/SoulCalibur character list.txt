@@ -69,7 +69,7 @@ Siegfried (SC3)           SIE - DONE
 Siegfried (SC4)           SIF
 Siegfried (SC5?)          SIG
 Siegfried (SC6)           SIH
-Sophitia (SC2)            SOP
+Sophitia (SC2)            SOP - DONE
 Sophitia (SC3)            SOQ
 Sophitia (SC4)            SOR
 Sophitia (SC6)            SOS
@@ -166,7 +166,6 @@ IVY
 KILIK
 NIGHTMARE
 RAPHAEL
-SOPHITIA
 TAKI
 YUN-SEONG
 

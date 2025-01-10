@@ -438,6 +438,50 @@
 @1065 = ~This trial... I will overcome it!~ [zgsrocc]    ///  cd_tired #c
 @1067 = ~Do they think this is a trap?~ [zgsroc7]    ///  cd_trap #7
 
+@1100 = ~SC: Sophitia (SC2)~
+@1101 = ~Ready or not, here I come!~ [zgssopi]    ///  cd_action1 #i
+@1102 = ~Anytime!~ [zgssopj]    ///  cd_action2 #j
+@1103 = ~One step at a time.~ [zgssopk]    ///  cd_action3 #k
+@1104 = ~May the gods be praised.~ [zgssops]    ///  cd_action4 #s
+@1105 = ~Our prayers will be answered.~ [zgssopt]    ///  cd_action5 #t
+@1106 = ~Did I overdo it?~ [zgssopu]    ///  cd_action6 #u
+@1107 = ~I have to deal with this.~ [zgssopv]    ///  cd_action7 #v
+@1116 = ~I didn't want to fight.~ [zgssopa]    ///  cd_battlecry1 #a
+@1117 = ~I will win.~ [zgssop8]    ///  cd_battlecry2 #8
+@1118 = ~Gods, protect me.~ [zgssop9]    ///  cd_battlecry3 #9
+@1119 = ~Repent!~ [zgssopg_]   ///  cd_battlecry4 #g_
+@1120 = ~I'll give it all I've got.~ [zgssoph_]   ///  cd_battlecry5 #h_
+@1121 = ~Are you okay?~ [zgssopd]    ///  cd_bored #d
+@1122 = ~Think about what you're doing.~ [zgssopi_]   ///  cd_bored2 #i_
+@1124 = ~Don't you have a place to go home to?~ [zgssopo]    ///  cd_city #o
+@1125 = ~Okay, I'm ready.~ [zgssopf]    ///  cd_common1 #f
+@1126 = ~Gods, guide me.~ [zgssopg]    ///  cd_common2 #g
+@1127 = ~Gods, please give me strength.~ [zgssoph]    ///  cd_common3 #h
+@1128 = ~I want to save you.~ [zgssop0]    ///  cd_common4 #0
+@1129 = ~I won't give up hope.~ [zgssopk_]   ///  cd_common5 #k_
+@1130 = ~I will go where the gods guide me.~ [zgssopl_]   ///  cd_common6 #l_
+@1132 = ~That's it!~ [zgssopz]    ///  cd_criticalhit #z
+@1133 = ~Stop it!~ [zgssop1]    ///  cd_criticalmiss #1 (number)
+@1134 = ~Uh!~ [zgssopl]    ///  cd_damage #l (letter)
+@1135 = ~Uuh!~ [zgssopn_]   ///  cd_damage2 #n_
+@1136 = ~Aah!~ [zgssopo_]   ///  cd_damage3 #o_
+@1137 = ~Gods, hear my prayers.~ [zgssopq]    ///  cd_day #q
+@1138 = ~Sorry...~ [zgssop6]    ///  cd_disrupted #6
+@1139 = ~I chose to come here... on my own free will.~ [zgssopp]    ///  cd_dungeon #p
+@1140 = ~Uaaaoooh!~ [zgssopm]    ///  cd_dying #m
+@1141 = ~Uaa-ah!~ [zgssopp_]   ///  cd_dying2 #p_
+@1143 = ~Time will heal you.~ [zgssopw]    ///  cd_gen_death #w
+@1144 = ~Don't say anything.~ [zgssopq_]   ///  cd_gen_death2 #q_
+@1146 = ~I can't be defeated yet!~ [zgssope]    ///  cd_hurt #e
+@1147 = ~Is this the end?!~ [zgssops_]   ///  cd_hurt2 #s_
+@1148 = ~This can't be!~ [zgssop2]    ///  cd_immune #2
+@1150 = ~Okay, here we go!~ [zgssopb]    ///  cd_leader #b
+@1152 = ~Gods, please protect me.~ [zgssopu_]   ///  cd_morale_break #u_
+@1155 = ~Forgive me...~ [zgssop4]    ///  cd_pickpocket #4
+@1165 = ~Are you sure this is what you want?~ [zgssopc]    ///  cd_tired #c
+@1166 = ~Get some rest.~ [zgssop4_]   ///  cd_tired2 #4_
+
+
 
 /// @00 = ~SC:  (SC)~
 /// @01 = ~~ [zgsi]    ///  cd_action1 #i
