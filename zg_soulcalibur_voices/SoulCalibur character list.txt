@@ -93,7 +93,7 @@ Xiba (SC5)                XJB
 Yoshimitsu (SC2)          YOS
 Yoshimitsu (SC3)          YOT
 Yoshimitsu (SC4+)         YOU
-Yun-seong (SC2)           YUN
+Yun-seong (SC2)           YUN - DONE
 Yun-seong (SC3)           YUO
 Yun-seong (SC4)           YUP
 Zasalamel (SC3)           ZAS
@@ -158,7 +158,7 @@ SC5 VOICES USE SC6 NAMES (EXCLUDING F ELDER SISTER/RELIABLE LEADER, TO PREVENT O
 MALE, VOICE 4 (SC4)
 MALE, VOICE 5 (SC4)
 
-TO-DO AGAINST SORCERER'S PLACE VOICEPACKS
+TO-DO AGAINST SORCERER'S PLACE VOICEPACKS (10 + 12)
 
 SC2
 CERVANTES
@@ -167,7 +167,6 @@ KILIK
 NIGHTMARE
 RAPHAEL
 TAKI
-YUN-SEONG
 
 SC3
 ABYSS
