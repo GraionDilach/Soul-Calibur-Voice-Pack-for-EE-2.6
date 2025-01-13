@@ -481,6 +481,55 @@
 @1165 = ~Are you sure this is what you want?~ [zgssopc]    ///  cd_tired #c
 @1166 = ~Get some rest.~ [zgssop4_]   ///  cd_tired2 #4_
 
+@1200 = ~SC: Setsuka (SC3)~
+@1201 = ~This will take but a moment.~ [zgssfti]    ///  cd_action1 #i
+@1202 = ~You have guts... I'm rather impressed.~ [zgssftj]    ///  cd_action2 #j
+@1203 = ~This will be over... all too quickly.~ [zgssftk]    ///  cd_action3 #k
+@1204 = ~My sword is the only thing I have left.~ [zgssfts]    ///  cd_action4 #s
+@1205 = ~I still have a lot to learn.~ [zgssftt]    ///  cd_action5 #t
+@1206 = ~Noone has the right to stop me.~ [zgssftu]    ///  cd_action6 #u
+@1207 = ~I don't question your motives, don't question mine.~ [zgssftv]    ///  cd_action7 #v
+@1208 = ~You want more?~ [zgssftx]    ///  cd_action_rare1 #x
+@1209 = ~I don't question your way. Do not question mine.~ [zgssfty]    ///  cd_action_rare2 #y
+@1216 = ~If it's a fight you want, you shall have it!~ [zgssfta]    ///  cd_battlecry1 #a
+@1217 = ~So you really want to die, don't you?~ [zgssft8]    ///  cd_battlecry2 #8
+@1218 = ~You shall not make it past this day.~ [zgssft9]    ///  cd_battlecry3 #9
+@1219 = ~I will cut you down as many times as you wish.~ [zgssftg_]   ///  cd_battlecry4 #g_
+@1220 = ~Let the wounds from my blade... be your demise.~ [zgssfth_]   ///  cd_battlecry5 #h_
+@1221 = ~I guess you don't care if you live.~ [zgssftd]    ///  cd_bored #d
+@1222 = ~My blade never hesitates.~ [zgssfti_]   ///  cd_bored2 #i_
+@1225 = ~This had better be worth my time.~ [zgssftf]    ///  cd_common1 #f
+@1226 = ~My life... is not yours for the taking.~ [zgssftg]    ///  cd_common2 #g
+@1227 = ~Let's find out... just who's stronger.~ [zgssfth]    ///  cd_common3 #h
+@1228 = ~Do you have a reason to fight?~ [zgssft0]    ///  cd_common4 #0
+@1229 = ~You must fight to live, that's all there's to it.~ [zgssftk_]   ///  cd_common5 #k_
+@1230 = ~Fear me, for I am a demon!~ [zgssftl_]   ///  cd_common6 #l_
+@1232 = ~Scatter and die!~ [zgssftz]    ///  cd_criticalhit #z
+@1233 = ~This is ridiculous!~ [zgssft1]    ///  cd_criticalmiss #1 (number)
+@1234 = ~Gah!~ [zgssftl]    ///  cd_damage #l (letter)
+@1235 = ~Duh!~ [zgssftn_]   ///  cd_damage2 #n_
+@1236 = ~Oh!~ [zgssfto_]   ///  cd_damage3 #o_
+@1237 = ~What other surprises await...~ [zgssftq]    ///  cd_day #q
+@1238 = ~That was unexpected...~ [zgssft6]    ///  cd_disrupted #6
+@1240 = ~Guh-uhhrrrn!~ [zgssftm]    ///  cd_dying #m
+@1241 = ~Nuh-uhrnnn!~ [zgssftp_]   ///  cd_dying2 #p_
+@1243 = ~Don't expect... any pity.~ [zgssftw]    ///  cd_gen_death #w
+@1244 = ~Curse your weakness!~ [zgssftq_]   ///  cd_gen_death2 #q_
+@1246 = ~I won't go down without a fight!~ [zgssfte]    ///  cd_hurt #e
+@1247 = ~Ugh, I must hurry!~ [zgssfts_]   ///  cd_hurt2 #s_
+@1248 = ~What is going on?!~ [zgssft2]    ///  cd_immune #2
+@1249 = ~I have no need for something like this.~ [zgssft3]    ///  cd_inventory #3
+@1250 = ~Let's see what you can do!~ [zgssftb]    ///  cd_leader #b
+@1251 = ~Don't even dare think... that this will be easy.~ [zgssftt_]   ///  cd_leader2 #t_
+@1252 = ~No matter what, I must survive!~ [zgssftu_]   ///  cd_morale_break #u_
+@1253 = ~I have no intention of dying here!~ [zgssftv_]   ///  cd_morale_break2 #v_
+@1255 = ~Ugh... this is so embarassing.~ [zgssft4]    ///  cd_pickpocket #4
+@1256 = ~Are you fast enough to avoid my blade?~ [zgssftw_]   ///  cd_select_rare1 #w_
+@1257 = ~It doesn't matter how many of you there are.~ [zgssftx_]   ///  cd_select_rare2 #x_
+@1258 = ~Shall I cut you limb from limb?~ [zgssfty_]   ///  cd_select_rare3 #y_
+@1259 = ~I have no choice but to draw my sword.~ [zgssftz_]   ///  cd_select_rare4 #z_
+@1265 = ~I shall become stronger... Just... watch me.~ [zgssftc]    ///  cd_tired #c
+
 
 
 /// @00 = ~SC:  (SC)~
