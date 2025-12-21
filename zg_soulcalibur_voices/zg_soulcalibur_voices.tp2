@@ -678,7 +678,6 @@ LAF cd_add_soundset
     cd_morale_break1      = RESOLVE_STR_REF(@1352) //  u_ (unofficial)
     cd_pickpocket         = RESOLVE_STR_REF(@1355) //  4
     cd_select_rare1       = RESOLVE_STR_REF(@1356) //  w_ (unofficial)
-    cd_shadows            = RESOLVE_STR_REF(@1364) //  5
     cd_tired1             = RESOLVE_STR_REF(@1365) //  c
     cd_tired2             = RESOLVE_STR_REF(@1366) //  4_ (unofficial)
   STR_VAR cd_name = "ZGSYUN"
