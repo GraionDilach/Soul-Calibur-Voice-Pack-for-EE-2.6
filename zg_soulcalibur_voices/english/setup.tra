@@ -624,6 +624,53 @@
 @1465 = ~Let us call it a day.~ [zgsrasc]    ///  cd_tired #c
 @1466 = ~No time for resting...~ [zgsras4_]   ///  cd_tired2 #4_
 
+@1500 = ~SC: Shura (SC4)~
+@1501 = ~Here I come!~ [zgsshui]    ///  cd_action1 #i
+@1502 = ~Oh, you're good.~ [zgsshuj]    ///  cd_action2 #j
+@1503 = ~Perfect!~ [zgsshuk]    ///  cd_action3 #k
+@1504 = ~Oh, you're done already?~ [zgsshus]    ///  cd_action4 #s
+@1505 = ~That didn't satisfy me at all.~ [zgsshut]    ///  cd_action5 #t
+@1506 = ~Not good enough.~ [zgsshuu]    ///  cd_action6 #u
+@1507 = ~Come on, let's have some more fun!~ [zgsshuv]    ///  cd_action7 #v
+@1508 = ~Yes, that's it!~ [zgsshux]    ///  cd_action_rare1 #x
+@1509 = ~This is perfect!~ [zgsshuy]    ///  cd_action_rare2 #y
+@1516 = ~Take your punishment!~ [zgsshua]    ///  cd_battlecry1 #a
+@1517 = ~You look like a feisty one.~ [zgsshu8]    ///  cd_battlecry2 #8
+@1518 = ~Meet your death!~ [zgsshu9]    ///  cd_battlecry3 #9
+@1519 = ~Your moves don't satisfy me.~ [zgsshug_]   ///  cd_battlecry4 #g_
+@1520 = ~Just come at me. I'm ready for anything.~ [zgsshuh_]   ///  cd_battlecry5 #h_
+@1521 = ~It's time to play.~ [zgsshud]    ///  cd_bored #d
+@1522 = ~I'll punish you later.~ [zgsshui_]   ///  cd_bored2 #i_
+@1525 = ~Okay, let's get started.~ [zgsshuf]    ///  cd_common1 #f
+@1526 = ~Oh, you're so cute.~ [zgsshug]    ///  cd_common2 #g
+@1527 = ~Hmmm... what should I do?~ [zgsshuh]    ///  cd_common3 #h
+@1528 = ~Ouh, I love it when you talk dirty.~ [zgsshu0]    ///  cd_common4 #0
+@1529 = ~Come on, let's have fun.~ [zgsshuk_]   ///  cd_common5 #k_
+@1530 = ~In the mood now?~ [zgsshul_]   ///  cd_common6 #l_
+@1532 = ~Submit to me.~ [zgsshuz]    ///  cd_criticalhit #z
+@1533 = ~I'm not impressed.~ [zgsshu1]    ///  cd_criticalmiss #1 (number)
+@1534 = ~Ah!~ [zgsshul]    ///  cd_damage #l (letter)
+@1535 = ~Guh!~ [zgsshun_]   ///  cd_damage2 #n_
+@1536 = ~Agh!~ [zgsshuo_]   ///  cd_damage3 #o_
+@1538 = ~Naughty, naughty...~ [zgsshu6]    ///  cd_disrupted #6
+@1540 = ~Aaa-aaa-aaghhh...~ [zgsshum]    ///  cd_dying #m
+@1543 = ~Where did all your energy go?~ [zgsshuw]    ///  cd_gen_death #w
+@1544 = ~I hate softies.~ [zgsshuq_]   ///  cd_gen_death2 #q_
+@1546 = ~This isn't good.~ [zgsshue]    ///  cd_hurt #e
+@1547 = ~Not yet.~ [zgsshus_]   ///  cd_hurt2 #s_
+@1548 = ~Excuse me?!~ [zgsshu2]    ///  cd_immune #2
+@1549 = ~I just wanted to try it on...~ [zgsshu3]    ///  cd_inventory #3
+@1550 = ~I'll teach you a thing or two.~ [zgsshub]    ///  cd_leader #b
+@1551 = ~You lack training.~ [zgsshut_]   ///  cd_leader2 #t_
+@1552 = ~Okay, that's enough!~ [zgsshuu_]   ///  cd_morale_break #u_
+@1553 = ~This is ridiculous!~ [zgsshuv_]   ///  cd_morale_break2 #v_
+@1555 = ~Oops. Sorry.~ [zgsshu4]    ///  cd_pickpocket #4
+@1556 = ~So, you wanna do it here?~ [zgsshuw_]   ///  cd_select_rare1 #w_
+@1557 = ~Ahaha. What an odd person.~ [zgsshux_]   ///  cd_select_rare2 #x_
+@1565 = ~That's it, I'm done.~ [zgsshuc]    ///  cd_tired #c
+@1566 = ~*pant* *pant*~ [zgsshu4_]   ///  cd_tired2 #4_
+
+
 
 /// @00 = ~SC:  (SC)~
 /// @01 = ~~ [zgsi]    ///  cd_action1 #i
