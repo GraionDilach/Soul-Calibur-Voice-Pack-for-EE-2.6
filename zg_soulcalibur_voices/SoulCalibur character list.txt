@@ -53,7 +53,9 @@ Patroklos, Alpha (SC5)    PAU
 Pyrrha (SC5)              PYR
 Pyrrha Omega (SC5)        PYS
 Raphael (SC2)             RAP
-Raphael (SC3+)            RAQ
+Raphael (SC3)             RAQ
+Raphael (SC4)             RAR
+Raphael (SC5+)            RAS - DONE
 Rock (SC3)                ROC - DONE
 Rock (SC4)                ROD
 Scherezade (SC4)          SCH
@@ -174,7 +176,6 @@ CERVANTES
 KILIK
 MITSURUGI
 NIGHTMARE
-RAPHAEL
 TAKI
 TIRA
 YUN-SEONG
