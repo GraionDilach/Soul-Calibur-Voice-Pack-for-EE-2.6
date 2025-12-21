@@ -76,7 +76,8 @@ Sophitia (SC3)            SOQ
 Sophitia (SC4)            SOR
 Sophitia (SC6)            SOS
 Taki (SC2)                TAK
-Taki (SC3+)               TAL
+Taki (SC3)                TAL
+Taki (SC4+)               TAM - DONE
 Talim (SC2)               TBL
 Talim (SC3)               TBM
 Talim (SC4)               TBN
@@ -176,7 +177,6 @@ CERVANTES
 KILIK
 MITSURUGI
 NIGHTMARE
-TAKI
 TIRA
 YUN-SEONG
 ZASALAMEL

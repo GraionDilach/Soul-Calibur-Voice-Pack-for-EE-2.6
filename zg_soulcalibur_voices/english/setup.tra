@@ -605,7 +605,7 @@
 @1436 = ~Eenh!~ [zgsraso_]   ///  cd_damage3 #o_
 @1438 = ~Ah! My head...~ [zgsras6]    ///  cd_disrupted #6
 @1440 = ~Aaaaaah...~ [zgsrasm]    ///  cd_dying #m
-@1441 = ~Grlh.. unhh...~ [zgsrasp_]   ///  cd_dying2 #p_
+@1441 = ~Grlh... unhh...~ [zgsrasp_]   ///  cd_dying2 #p_
 @1443 = ~How disgraceful!~ [zgsrasw]    ///  cd_gen_death #w
 @1446 = ~How dare you!~ [zgsrase]    ///  cd_hurt #e
 @1447 = ~Damn you!~ [zgsrass_]   ///  cd_hurt2 #s_
@@ -669,6 +669,56 @@
 @1557 = ~Ahaha. What an odd person.~ [zgsshux_]   ///  cd_select_rare2 #x_
 @1565 = ~That's it, I'm done.~ [zgsshuc]    ///  cd_tired #c
 @1566 = ~*pant* *pant*~ [zgsshu4_]   ///  cd_tired2 #4_
+
+@1600 = ~SC: Taki (SC4+)~
+@1601 = ~I expected better than that.~ [zgstami]    ///  cd_action1 #i
+@1602 = ~Let me pass.~ [zgstamj]    ///  cd_action2 #j
+@1603 = ~Stand aside.~ [zgstamk]    ///  cd_action3 #k
+@1604 = ~Out of my way!~ [zgstams]    ///  cd_action4 #s
+@1605 = ~Too easy.~ [zgstamt]    ///  cd_action5 #t
+@1606 = ~Is that all you've got?~ [zgstamu]    ///  cd_action6 #u
+@1607 = ~This is it!~ [zgstamv]    ///  cd_action7 #v
+@1608 = ~How cliché.~ [zgstamx]    ///  cd_action_rare1 #x
+@1609 = ~You've got to be kidding.~ [zgstamy]    ///  cd_action_rare2 #y
+@1616 = ~Are you ready to die?~ [zgstama]    ///  cd_battlecry1 #a
+@1617 = ~At least your stance looks good. Hmph.~ [zgstam8]    ///  cd_battlecry2 #8
+@1618 = ~You'll be lost to history.~ [zgstam9]    ///  cd_battlecry3 #9
+@1619 = ~Get out of my sight!~ [zgstamg_]   ///  cd_battlecry4 #g_
+@1620 = ~This is as far as you go!~ [zgstamh_]   ///  cd_battlecry5 #h_
+@1621 = ~I don't have time for this, come on!~ [zgstamd]    ///  cd_bored #d
+@1622 = ~You bore me.~ [zgstami_]   ///  cd_bored2 #i_
+@1625 = ~Let's do this.~ [zgstamf]    ///  cd_common1 #f
+@1626 = ~I'm through with words.~ [zgstamg]    ///  cd_common2 #g
+@1627 = ~What now?~ [zgstamh]    ///  cd_common3 #h
+@1628 = ~Ready?~ [zgstam0]    ///  cd_common4 #0
+@1629 = ~Hah, bring it on.~ [zgstamk_]   ///  cd_common5 #k_
+@1630 = ~Having trouble?~ [zgstaml_]   ///  cd_common6 #l_
+@1632 = ~Perish!~ [zgstamz]    ///  cd_criticalhit #z
+@1633 = ~Dammit!~ [zgstam1]    ///  cd_criticalmiss #1 (number)
+@1634 = ~Nnh!~ [zgstaml]    ///  cd_damage #l (letter)
+@1635 = ~Aga!~ [zgstamn_]   ///  cd_damage2 #n_
+@1636 = ~Ah!~ [zgstamo_]   ///  cd_damage3 #o_
+@1638 = ~What a blunder!~ [zgstam6]    ///  cd_disrupted #6
+@1639 = ~What's going on here...?~ [zgstamp]    ///  cd_dungeon #p
+@1640 = ~Unnnh... anhh...~ [zgstamm]    ///  cd_dying #m
+@1641 = ~Uaaa-aaa-aahhh...~ [zgstamp_]   ///  cd_dying2 #p_
+@1643 = ~It's life or death.~ [zgstamw]    ///  cd_gen_death #w
+@1644 = ~Show some respect.~ [zgstamq_]   ///  cd_gen_death2 #q_
+@1646 = ~Not good enough.~ [zgstame]    ///  cd_hurt #e
+@1647 = ~Uh-oh. This is bad.~ [zgstams_]   ///  cd_hurt2 #s_
+@1648 = ~It's useless!~ [zgstam2]    ///  cd_immune #2
+@1649 = ~I've changed my mind.~ [zgstam3]    ///  cd_inventory #3
+@1650 = ~This just shows how much better I am than you.~ [zgstamb]    ///  cd_leader #b
+@1651 = ~You're all talk.~ [zgstamt_]   ///  cd_leader2 #t_
+@1652 = ~No, this can't be...~ [zgstamu_]   ///  cd_morale_break #u_
+@1653 = ~Why is this happening?!~ [zgstamv_]   ///  cd_morale_break2 #v_
+@1655 = ~Forgive me.~ [zgstam4]    ///  cd_pickpocket #4
+@1656 = ~How annoying.~ [zgstamw_]   ///  cd_select_rare1 #w_
+@1657 = ~Foolish pride!~ [zgstamx_]   ///  cd_select_rare2 #x_
+@1658 = ~You leave me no choice.~ [zgstamy_]   ///  cd_select_rare3 #y_
+@1659 = ~You have a weapon in your hand, use it!~ [zgstamz_]   ///  cd_select_rare4 #z_
+@1665 = ~Brute force, is it?~ [zgstamc]    ///  cd_tired #c
+@1666 = ~Huh. So stupid...~ [zgstam4_]   ///  cd_tired2 #4_
 
 
 
