@@ -846,6 +846,65 @@ LAF cd_add_soundset
   STR_VAR cd_name = "ZGSTAM"
 END
 
+// Amy (SC6)
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@1700) //  name
+    cd_action1            = RESOLVE_STR_REF(@1701) //  i
+    cd_action2            = RESOLVE_STR_REF(@1702) //  j
+    cd_action3            = RESOLVE_STR_REF(@1703) //  k
+    cd_action4            = RESOLVE_STR_REF(@1704) //  s
+    cd_action5            = RESOLVE_STR_REF(@1705) //  t
+    cd_action6            = RESOLVE_STR_REF(@1706) //  u
+    cd_action7            = RESOLVE_STR_REF(@1707) //  v
+    cd_action_rare1       = RESOLVE_STR_REF(@1708) //  x
+    cd_action_rare2       = RESOLVE_STR_REF(@1709) //  y
+    cd_battlecry1         = RESOLVE_STR_REF(@1716) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@1717) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@1718) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@1719) //  g_ (unofficial)
+    cd_battlecry5         = RESOLVE_STR_REF(@1720) //  h_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@1721) //  d
+    cd_bored2             = RESOLVE_STR_REF(@1722) //  i_ (unofficial)
+    cd_common1            = RESOLVE_STR_REF(@1725) //  f
+    cd_common2            = RESOLVE_STR_REF(@1726) //  g
+    cd_common3            = RESOLVE_STR_REF(@1727) //  h
+    cd_common4            = RESOLVE_STR_REF(@1728) //  0
+    cd_common5            = RESOLVE_STR_REF(@1729) //  k_ (unofficial)
+    cd_common6            = RESOLVE_STR_REF(@1730) //  l_ (unofficial, letter)
+    cd_common7            = RESOLVE_STR_REF(@1731) //  m_ (unofficial)
+    cd_criticalhit        = RESOLVE_STR_REF(@1732) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@1733) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@1734) //  l  (letter)
+    // cd_damage2         = RESOLVE_STR_REF(@1735) //  n_ (unofficial)
+    // cd_damage3         = RESOLVE_STR_REF(@1736) //  o_ (unofficial)
+    cd_day                = RESOLVE_STR_REF(@1737) //  q
+    cd_disrupted          = RESOLVE_STR_REF(@1738) //  6
+    cd_dying1             = RESOLVE_STR_REF(@1740) //  m
+    cd_dying2             = RESOLVE_STR_REF(@1741) //  p_
+    cd_forest             = RESOLVE_STR_REF(@1742) //  n
+    cd_gen_death1         = RESOLVE_STR_REF(@1743) //  w
+    cd_gen_death2         = RESOLVE_STR_REF(@1744) //  q_
+    cd_hurt1              = RESOLVE_STR_REF(@1746) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@1747) //  s_
+    cd_immune             = RESOLVE_STR_REF(@1748) //  2
+    cd_inventory          = RESOLVE_STR_REF(@1749) //  3
+    cd_leader1            = RESOLVE_STR_REF(@1750) //  b
+    cd_leader2            = RESOLVE_STR_REF(@1751) //  t_ (unofficial)
+    cd_morale_break1      = RESOLVE_STR_REF(@1752) //  u_ (unofficial)
+    cd_morale_break2      = RESOLVE_STR_REF(@1753) //  v_ (unofficial)
+    cd_night              = RESOLVE_STR_REF(@1754) //  r
+    cd_pickpocket         = RESOLVE_STR_REF(@1755) //  4
+    cd_select_rare1       = RESOLVE_STR_REF(@1756) //  w_ (unofficial)
+    cd_select_rare2       = RESOLVE_STR_REF(@1757) //  x_ (unofficial)
+    cd_select_rare3       = RESOLVE_STR_REF(@1758) //  y_ (unofficial)
+    cd_select_rare4       = RESOLVE_STR_REF(@1759) //  z_ (unofficial)
+    cd_tired1             = RESOLVE_STR_REF(@1765) //  c
+    cd_tired2             = RESOLVE_STR_REF(@1766) //  4_ (unofficial)
+  STR_VAR cd_name = "ZGSAMZ"
+END
+
 
 
 /// LAF cd_add_soundset

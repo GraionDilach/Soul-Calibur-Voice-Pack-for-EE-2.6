@@ -1,7 +1,7 @@
 Abyss (SC3)               ABY
 Algol (SC4+)              ALG
-Amy (SC4+)                AMY
-Amy (SC6?)                AMZ
+Amy (SC4)                 AMY
+Amy (SC6)                 AMZ - DONE
 Angol Fear (SC4)          ANG
 Ashlotte (SC4)            ASH - DONE
 Astaroth (SC2)            AST
