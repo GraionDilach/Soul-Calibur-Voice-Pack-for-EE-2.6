@@ -42,7 +42,7 @@ Mitsurugi (SC4)           MIV
 Mitsurugi (SC5?)          MIW
 Mitsurugi (SC6)           MIX
 Natsu (SC5)               NAT - DONE
-Nightmare (SC2)           NIG
+Nightmare (SC2)           NIG - DONE
 Nightmare (SC3)           NIH
 Nightmare (SC4)           NII
 Nightmare (SC5)           NIJ
@@ -166,7 +166,6 @@ SC2
 CERVANTES
 IVY
 KILIK
-NIGHTMARE
 RAPHAEL
 TAKI
 

@@ -773,6 +773,45 @@
 @1765 = ~Time for bed.~ [zgsamzc]    ///  cd_tired #c
 @1766 = ~*pant* *pant*~ [zgsamz4_]   ///  cd_tired2 #4_
 
+@1800 = ~SC: Nightmare (SC2)~
+@1801 = ~There's no turning back.~ [zgsnigi]    ///  cd_action1 #i
+@1802 = ~Souls, come unto me!~ [zgsnigj]    ///  cd_action2 #j
+@1803 = ~Yes, this is it!~ [zgsnigk]    ///  cd_action3 #k
+@1804 = ~Blood! Darkness! Come unto me!~ [zgsnigs]    ///  cd_action4 #s
+@1805 = ~This is it!~ [zgsnigt]    ///  cd_action5 #t
+@1806 = ~My thirst is endless!~ [zgsnigu]    ///  cd_action6 #u
+@1807 = ~Ah-ha-ha-ha-ha!~ [zgsnigv]    ///  cd_action7 #v
+@1816 = ~Offer your soul!~ [zgsniga]    ///  cd_battlecry1 #a
+@1817 = ~Annihilate!~ [zgsnig8]    ///  cd_battlecry2 #8
+@1818 = ~Massacre!~ [zgsnig9]    ///  cd_battlecry3 #9
+@1819 = ~Bloodbath!~ [zgsnigg_]   ///  cd_battlecry4 #g_
+@1820 = ~This. Is. The end!~ [zgsnigh_]   ///  cd_battlecry5 #h_
+@1821 = ~You conceited wretched human!~ [zgsnigd]    ///  cd_bored #d
+@1825 = ~Give me strength!~ [zgsnigf]    ///  cd_common1 #f
+@1826 = ~I will show you... the greatest nightmare!~ [zgsnigg]    ///  cd_common2 #g
+@1827 = ~Souls, give me strength!~ [zgsnigh]    ///  cd_common3 #h
+@1828 = ~More... need more souls!~ [zgsnig0]    ///  cd_common4 #0
+@1829 = ~I'll be restored soon.~ [zgsnigk_]   ///  cd_common5 #k_
+@1830 = ~Give me the next soul!~ [zgsnigl_]   ///  cd_common6 #l_
+@1832 = ~Suffer!~ [zgsnigz]    ///  cd_criticalhit #z
+@1833 = ~Aigh!~ [zgsnig1]    ///  cd_criticalmiss #1 (number)
+@1834 = ~Uah!~ [zgsnigl]    ///  cd_damage #l (letter)
+@1835 = ~Duahl!~ [zgsnign_]   ///  cd_damage2 #n_
+@1836 = ~Ehl!~ [zgsnigo_]   ///  cd_damage3 #o_
+@1838 = ~Fool.~ [zgsnig6]    ///  cd_disrupted #6
+@1840 = ~Ugaaarhhhh!~ [zgsnigm]    ///  cd_dying #m
+@1841 = ~Anhhh!~ [zgsnigp_]   ///  cd_dying2 #p_
+@1843 = ~You're pathetic.~ [zgsnigw]    ///  cd_gen_death #w
+@1846 = ~Not yet!~ [zgsnige]    ///  cd_hurt #e
+@1848 = ~How?!~ [zgsnig2]    ///  cd_immune #2
+@1849 = ~Shatter!~ [zgsnig3]    ///  cd_inventory #3
+@1850 = ~I've been waiting for this day... for too long!~ [zgsnigb]    ///  cd_leader #b
+@1852 = ~Begone!~ [zgsnigu_]   ///  cd_morale_break #u_
+@1855 = ~Got you!~ [zgsnig4]    ///  cd_pickpocket #4
+@1865 = ~Gggrrrh!~ [zgsnigc]    ///  cd_tired #c
+
+
+
 
 /// @00 = ~SC:  (SC)~
 /// @01 = ~~ [zgsi]    ///  cd_action1 #i
