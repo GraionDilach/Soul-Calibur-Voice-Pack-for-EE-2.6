@@ -83,10 +83,12 @@ Talim (SC3)               TBM
 Talim (SC4)               TBN
 Talim (SC6)               TBO
 Tira (SC3)                TIR
-Tira, Jolly (SC4+)        TJR
-Tira, Jolly (SC6)         TJS
-Tira, Gloomy (SC4+)       TKR
-Tira, Gloomy (SC6)        TKS
+Tira, Jolly (SC4)         TJR
+Tira, Jolly (SC5)         TJS
+Tira, Jolly (SC6)         TJT
+Tira, Gloomy (SC4)        TKR
+Tira, Gloomy (SC5)        TKS
+Tira, Gloomy (SC6)        TKT
 Viola (SC5)               VIO
 Xianghua (SC2)            XIA
 Xianghua (SC3)            XIB
