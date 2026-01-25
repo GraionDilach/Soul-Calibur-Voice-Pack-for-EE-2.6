@@ -72,7 +72,7 @@ Siegfried (SC4)           SIF
 Siegfried (SC5?)          SIG
 Siegfried (SC6)           SIH
 Sophitia (SC2)            SOP - DONE
-Sophitia (SC3)            SOQ
+Sophitia (SC3)            SOQ - DONE
 Sophitia (SC4)            SOR
 Sophitia (SC6)            SOS
 Taki (SC2)                TAK
