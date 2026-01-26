@@ -857,6 +857,43 @@
 @1965 = ~Are you sure this is what you want?~ [zgssoqc]    ///  cd_tired #c
 @1966 = ~Do not give in to your greed.~ [zgssoq4_]   ///  cd_tired2 #4_
 
+@2000 = ~SC: Male, Veteran Knight (SC5)~
+@2001 = ~Your conviction holds much promise.~ [zgs2vei]    ///  cd_action1 #i
+@2002 = ~I like your spirit.~ [zgs2vej]    ///  cd_action2 #j
+@2003 = ~That's a surprise.~ [zgs2vek]    ///  cd_action3 #k
+@2004 = ~Well done.~ [zgs2ves]    ///  cd_action4 #s
+@2005 = ~Too easy!~ [zgs2vet]    ///  cd_action5 #t
+@2006 = ~You're doing well.~ [zgs2veu]    ///  cd_action6 #u
+@2016 = ~So, you desire to fight?~ [zgs2vea]    ///  cd_battlecry1 #a
+@2017 = ~Stay away from me, you monster!~ [zgs2ve8]    ///  cd_battlecry2 #8
+@2018 = ~You're no match!~ [zgs2ve9]    ///  cd_battlecry3 #9
+@2019 = ~Prepare to die!~ [zgs2veg_]   ///  cd_battlecry4 #g_
+@2020 = ~I can see the fear in your eyes.~ [zgs2veh_]   ///  cd_battlecry5 #h_
+@2021 = ~You're a disappointment.~ [zgs2ved]    ///  cd_bored #d
+@2025 = ~Ready?~ [zgs2vef]    ///  cd_common1 #f
+@2026 = ~What's that?~ [zgs2veg]    ///  cd_common2 #g
+@2027 = ~Huh?~ [zgs2veh]    ///  cd_common3 #h
+@2028 = ~You dare!~ [zgs2ve0]    ///  cd_common4 #0
+@2029 = ~You there.~ [zgs2vek_]   ///  cd_common5 #k_
+@2032 = ~Perish!~ [zgs2vez]    ///  cd_criticalhit #z
+@2033 = ~Wha?~ [zgs2ve1]    ///  cd_criticalmiss #1 (number)
+@2034 = ~Unh!~ [zgs2vel]    ///  cd_damage #l (letter)
+@2035 = ~Ohah!~ [zgs2ven_]   ///  cd_damage2 #n_
+@2036 = ~Ugu!~ [zgs2veo_]   ///  cd_damage3 #o_
+@2038 = ~How did... ?~ [zgs2ve6]    ///  cd_disrupted #6
+@2040 = ~The curtain closes...~ [zgs2vem]    ///  cd_dying #m
+@2041 = ~Hlrgh... unhh...~ [zgs2vep_]   ///  cd_dying2 #p_
+@2043 = ~Fate has spoken.~ [zgs2vew]    ///  cd_gen_death #w
+@2046 = ~Not yet...~ [zgs2vee]    ///  cd_hurt #e
+@2047 = ~Not over!~ [zgs2ves_]   ///  cd_hurt2 #s_
+@2048 = ~Impossible!~ [zgs2ve2]    ///  cd_immune #2
+@2049 = ~Stop this!~ [zgs2ve3]    ///  cd_inventory #3
+@2050 = ~Allow me to teach you.~ [zgs2veb]    ///  cd_leader #b
+@2052 = ~Nooo...~ [zgs2veu_]   ///  cd_morale_break #u_
+@2055 = ~This...~ [zgs2ve4]    ///  cd_pickpocket #4
+@2056 = ~Give it your all or don't bother showing up.~ [zgs2vew_]   ///  cd_select_rare1 #w_
+@2065 = ~Try again tomorrow.~ [zgs2vec]    ///  cd_tired #c
+
 
 
 /// @00 = ~SC:  (SC)~
